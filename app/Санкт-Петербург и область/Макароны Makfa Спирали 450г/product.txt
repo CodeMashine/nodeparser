@@ -1,0 +1,4 @@
+price = 75
+priceOld = 75
+rating = 4.8
+reviewCount = 116

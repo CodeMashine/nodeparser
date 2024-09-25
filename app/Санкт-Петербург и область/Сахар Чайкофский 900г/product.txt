@@ -1,0 +1,4 @@
+price = 160
+priceOld = 160
+rating = 4.5
+reviewCount = 117
